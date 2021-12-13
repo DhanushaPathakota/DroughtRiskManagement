@@ -1,1 +1,1 @@
-# DroughtRiskManagement
+An Early warning system using a dataset with satellite images and calculated indices that are necessary for predicting the drought such as Normalized Difference Vegetation Index (NDVI),Atmospherically Resistant Vegetation Index (ARVI ) and Soil Adjusted Vegetation Index (SAVI) for predicting droughts.The project was implementes using CNN and its forms VGGNet, AlexNet algorithms.
